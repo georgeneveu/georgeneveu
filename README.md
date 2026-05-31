@@ -14,14 +14,6 @@ I love building tools to ez-up my own day-to-day workflow. Feel free to check th
 ---
 
 ### 🐱 Thank you for visiting my page!
-<p align="center">
-  <img src="https://i.giphy.com/X7yRjZoayCr1C.gif" width="480" alt="Howdy Cat">
-  <br><br>
-  <strong>Thank you for visiting my page!</strong>
-</p>
-
-
-
 
 
 
