@@ -13,12 +13,7 @@ I love building tools to ez-up my own day-to-day workflow. Feel free to check th
 
 ---
 
-### 🐱 Current Vibe
+### 🐱 Thank you for visiting my page!
+![Tom and Jerry Howdy]([https://media.giphy.com/media/X7yRjZoayCr1C/giphy.gif](https://giphy.com/gifs/howdy-X7yRjZoayCr1C))
 
-🔬 Always testing new SEO frameworks, debugging tracking scripts, or tweaking automation pipelines.
 
-![Tom and Jerry Howdy](https://media.giphy.com/media/X7yRjZoayCr1C/giphy.gif)
-
----
-
-Thank you for visiting my page! 🚀
