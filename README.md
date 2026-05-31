@@ -1,8 +1,6 @@
 ## 🤠 Howdy!
 
-I'm a **Digital Marketing Specialist** primarily focusing on **SEO**, automation, and advanced server-side data analytics. I love building smart workflows and data-driven strategies to scale online visibility.
-
-I created this GitHub profile to host my custom internal scripts, tracking setups, and automation tools.
+I'm a **Digital Marketing Specialist** primarily focusing on **SEO**, automation, and advanced server-side data analytics. I love building smart workflows and data-driven strategies to scale online visibility. I created this GitHub profile to host my custom internal scripts, tracking setups, and automation tools.
 
 ---
 
