@@ -6,7 +6,7 @@ I'm a **Digital Marketing Specialist** primarily focusing on **SEO**, automation
 
 ### 🛠️ Featured Tools & Extensions
 
-I love building tools to streamline my own day-to-day workflow. Feel free to check them out if you want to optimize yours:
+I love building tools to ez-up my own day-to-day workflow. Feel free to check them out and leave a review:
 
 * **[Schema Markup Validator (Firefox Add-on)](https://addons.mozilla.org/ru/firefox/addon/schema-markup-validator/)** – A browser extension I built for myself to instantly validate structured data and ease my SEO workflow.
 * **[Google Ads Budget Calculator](https://georgeneveu.github.io/google-ads-calculator/)** – A quick interactive tool to map out campaign metrics, ROAS, and budget distributions efficiently.
