@@ -14,12 +14,11 @@ I love building tools to ez-up my own day-to-day workflow. Feel free to check th
 ---
 
 ### 🐱 Thank you for visiting my page!
-<p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI2cHNjZWtxaWV3cmdiN2hhcTU2aWRiaTV3ZGFuNjVtM3owNjZ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7yRjZoayCr1C/giphy.gif" width="30" style="vertical-align: middle;"> Thank you for visiting my page!
+<p align="center">
+  <img src="https://i.giphy.com/X7yRjZoayCr1C.gif" width="480" alt="Howdy Cat">
+  <br><br>
+  <strong>Thank you for visiting my page!</strong>
 </p>
-
-
-
 
 
 
